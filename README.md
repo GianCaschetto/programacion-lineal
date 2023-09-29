@@ -44,3 +44,5 @@ Si no se encuentra una solución factible para los datos ingresados, se mostrar�
 Si deseas contribuir a esta aplicación, siéntete libre de hacerlo. Puedes enviar solicitudes de extracción (pull requests) en el repositorio de GitHub.
 
 # Diagrama de Flujo
+![diagramaLinearProgramming](https://github.com/GianCaschetto/programacion-lineal/assets/83784934/8d63eea3-342e-4c3d-a500-dc8a018dcca2)
+
