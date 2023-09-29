@@ -10,6 +10,10 @@ Una vez instalada
 2. Si su problema no sale con solucion, en consola puede ver las especificaciones del resultado si es factible, encerrado y resultado final (Desarrollador)
 3. Evitar mutar algun objeto o array en el codigo para que no se rompa el codigo
 
+## Libreria utilziada
+Se utilizo la libreria javascript-lp-solver para resolver el problema de programacion entera lineal con restricciones
+https://www.npmjs.com/package/javascript-lp-solver
+
 ## Instalación
 Clona el repositorio de la aplicación desde GitHub o crea un nuevo proyecto React utilizando create-react-app o vite.
 
