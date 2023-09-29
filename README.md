@@ -3,6 +3,12 @@ Esta documentación describe una aplicación desarrollada en React que resuelve 
 
 ## Requisitos
 Para ejecutar esta aplicación, asegúrate de tener Node.js y npm (Node Package Manager) instalados en tu sistema.
+Una vez instalada
+
+## ¿Qué debe evitar?
+1. Las restricciones como disponibilidad de materia prima debe ser mayor o igual a la suma de disponibilidades de productos
+2. Si su problema no sale con solucion, en consola puede ver las especificaciones del resultado si es factible, encerrado y resultado final (Desarrollador)
+3. Evitar mutar algun objeto o array en el codigo para que no se rompa el codigo
 
 ## Instalación
 Clona el repositorio de la aplicación desde GitHub o crea un nuevo proyecto React utilizando create-react-app o vite.
